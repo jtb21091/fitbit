@@ -12,3 +12,6 @@ NREMHR (lower the better)
 
 RMSSD (higher the better)
 ![image](https://github.com/user-attachments/assets/d97390fc-854c-467c-8db0-53cf7f857795)
+
+Respiratory rate
+![image](https://github.com/user-attachments/assets/f8f63177-94a9-44a5-801f-0ab15d15e494)
